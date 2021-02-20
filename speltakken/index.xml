@@ -6,14 +6,61 @@
     <description>Recent content in Speltakken on Scouting Olav | Naarden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright><atom:link href="https://olav.devjev.nl/speltakken/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [Themefisher](https://themefisher.com) &amp; [DevJev](https://www.devjev.nl)</copyright><atom:link href="https://olav.devjev.nl/speltakken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bevers</title>
       <link>https://olav.devjev.nl/speltakken/bevers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://olav.devjev.nl/speltakken/bevers/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
+      <description>Bevers zijn de jongste leden van onze groep. Zij komen bij elkaar op zaterdagochtend van 10.00 tot 12.00 uur. De groep bestaat uit jongens en meisjes van 4 tot en met 7 jaar.</description>
+    </item>
+    
+    <item>
+      <title>Dolfijnen</title>
+      <link>https://olav.devjev.nl/speltakken/dolfijnen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olav.devjev.nl/speltakken/dolfijnen/</guid>
+      <description>Als je te oud bent voor de Bevers ga je ‘overvliegen’ naar de Dolfijnen. Bij de Olav is er één (gemengde) Dolfijnengroep, de Dolfijnen zijn kinderen van 7 tot 10 jaar en is de jongste ‘waterspeltak’ bij Scouting Olav.</description>
+    </item>
+    
+    <item>
+      <title>Loodsenstam</title>
+      <link>https://olav.devjev.nl/speltakken/loodsenstam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olav.devjev.nl/speltakken/loodsenstam/</guid>
+      <description>Wanneer de scoutingleden te oud worden voor de Wilde Vaart is het tijd om de overstap te maken naar de Loodsenstam. De Loodsenstam heeft geen begeleiding meer, maar de groep staat er zelfstandig voor.</description>
+    </item>
+    
+    <item>
+      <title>Orka&#39;s</title>
+      <link>https://olav.devjev.nl/speltakken/orkas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olav.devjev.nl/speltakken/orkas/</guid>
+      <description>Als Orka zet je onder begeleiding van de staf je eerste stappen in de wereld van zeilen!
+Waar de Dolfijnen kanoën en de Zeeverkenners zelfstandig in een lelievlet zeilen gaan de Orka’s het water op met hulp van hun staf.</description>
+    </item>
+    
+    <item>
+      <title>Wilde Vaart</title>
+      <link>https://olav.devjev.nl/speltakken/wilde-vaart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olav.devjev.nl/speltakken/wilde-vaart/</guid>
+      <description>De Wilde Vaart is een gemengde speltak waar jongeren van 16 tot 18 jaar gezamenlijke activiteiten ondernemen. Deze speltak is dus het logische vervolg op de Zeeverkennersgroepen.
+Door hun leeftijd zijn de leden van de Wilde Vaart op weg naar zelfstandigheid.</description>
+    </item>
+    
+    <item>
+      <title>Zeeverkenners</title>
+      <link>https://olav.devjev.nl/speltakken/zeeverkenners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olav.devjev.nl/speltakken/zeeverkenners/</guid>
+      <description>Wanneer de scoutingleden te oud worden voor de Orca’s is het tijd om de grote overstap te maken van de Orca’s naar de Zeeverkenners. Deze overstap wordt gemaakt in het jaar dat de leden 12 jaar worden.</description>
     </item>
     
   </channel>
