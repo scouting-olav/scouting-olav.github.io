@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 20 Aug 2022 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nieuws</title>
+      <link>https://scouting-olav.nl/categories/nieuws/</link>
+      <pubDate>Tue, 30 Aug 2022 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/nieuws/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Groepsactiviteit</title>
       <link>https://scouting-olav.nl/categories/groepsactiviteit/</link>
@@ -18,11 +27,47 @@
     </item>
     
     <item>
+      <title>Opkomst</title>
+      <link>https://scouting-olav.nl/categories/opkomst/</link>
+      <pubDate>Fri, 12 Aug 2022 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/opkomst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seal</title>
+      <link>https://scouting-olav.nl/categories/seal/</link>
+      <pubDate>Tue, 02 Aug 2022 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/seal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Midzomernacht zeilen</title>
       <link>https://scouting-olav.nl/categories/midzomernacht-zeilen/</link>
       <pubDate>Sat, 02 Jul 2022 20:00:01 +0000</pubDate>
       
       <guid>https://scouting-olav.nl/categories/midzomernacht-zeilen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nieuw materiaal</title>
+      <link>https://scouting-olav.nl/categories/nieuw-materiaal/</link>
+      <pubDate>Sat, 11 Jun 2022 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/nieuw-materiaal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nieuw schip</title>
+      <link>https://scouting-olav.nl/categories/nieuw-schip/</link>
+      <pubDate>Sat, 12 Mar 2022 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/nieuw-schip/</guid>
       <description></description>
     </item>
     
