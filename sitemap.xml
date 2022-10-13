@@ -2,35 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://scouting-olav.nl/categories/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/het-nk-lelievlet/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/landelijke-scouting-zeilwedstrijden/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/nk-lelievlet/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/nieuws/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/zeeverkenners/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/zeilwedstrijd/</loc>
+    <lastmod>2022-10-09T20:00:01+00:00</lastmod>
+  </url><url>
     <loc>https://scouting-olav.nl/tags/1e-prijs/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/2e-prijs/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/categories/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/blog/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/tags/regionaale-zeilwedstrijden/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/blog/regionale-zeilwedstrijden-2022/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/tags/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/categories/zeilwedstrijden/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/categories/nieuws/</loc>
-    <lastmod>2022-08-30T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/scouting-olav/</loc>
     <lastmod>2022-08-30T20:00:01+00:00</lastmod>
@@ -51,9 +66,6 @@
     <lastmod>2022-08-20T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/blog/nawaka-2022/</loc>
-    <lastmod>2022-08-20T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/zeilwedstrijd/</loc>
     <lastmod>2022-08-20T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/blog/dolfijnen-kamp/</loc>
@@ -87,9 +99,6 @@
     <lastmod>2022-07-10T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/oekra%C3%AFne/</loc>
-    <lastmod>2022-07-10T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/zeeverkenners/</loc>
     <lastmod>2022-07-10T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/midzomernacht-zeilen/</loc>
