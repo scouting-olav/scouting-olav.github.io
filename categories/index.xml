@@ -7,40 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Het NK Lelievlet</title>
-      <link>https://scouting-olav.nl/categories/het-nk-lelievlet/</link>
-      <pubDate>Sun, 09 Oct 2022 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/het-nk-lelievlet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landelijke Scouting Zeilwedstrijden</title>
-      <link>https://scouting-olav.nl/categories/landelijke-scouting-zeilwedstrijden/</link>
-      <pubDate>Sun, 09 Oct 2022 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/landelijke-scouting-zeilwedstrijden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nieuws</title>
-      <link>https://scouting-olav.nl/categories/nieuws/</link>
-      <pubDate>Sun, 09 Oct 2022 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/nieuws/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 12 Sep 2022 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zeilwedstrijden</title>
       <link>https://scouting-olav.nl/categories/zeilwedstrijden/</link>
       <pubDate>Mon, 12 Sep 2022 20:00:01 +0000</pubDate>
       
       <guid>https://scouting-olav.nl/categories/zeilwedstrijden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nieuws</title>
+      <link>https://scouting-olav.nl/categories/nieuws/</link>
+      <pubDate>Tue, 30 Aug 2022 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/nieuws/</guid>
       <description></description>
     </item>
     
