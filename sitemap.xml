@@ -2,31 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://scouting-olav.nl/categories/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/orkas/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/piraten/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/pooltocht/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/pooltocht/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/pooltocht-orkas/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/weekend/</loc>
+    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/jemoeder/</loc>
+    <lastmod>2023-02-14T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/jemoeder/</loc>
+    <lastmod>2023-02-14T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/loodsen/</loc>
+    <lastmod>2023-02-14T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/motor/</loc>
+    <lastmod>2023-02-14T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/nieuwe-motor/</loc>
+    <lastmod>2023-02-14T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/onderhoud/</loc>
+    <lastmod>2023-02-14T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/dektekeningen/</loc>
+    <lastmod>2023-02-12T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/dektekeningen/</loc>
+    <lastmod>2023-02-12T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/lelievlet/</loc>
+    <lastmod>2023-02-12T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/opkomst/</loc>
+    <lastmod>2023-02-12T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/opkomst/</loc>
+    <lastmod>2023-02-12T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/schilderen/</loc>
+    <lastmod>2023-02-12T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/zeeverkenners/</loc>
+    <lastmod>2023-02-12T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/bevers/</loc>
+    <lastmod>2023-01-21T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/installeren/</loc>
+    <lastmod>2023-01-21T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/installeren/</loc>
+    <lastmod>2023-01-21T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/installeren-bevers/</loc>
+    <lastmod>2023-01-21T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/onderhoud-aan-de-boten/</loc>
+    <lastmod>2023-01-09T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/het-dek/</loc>
+    <lastmod>2022-12-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/kerst/</loc>
+    <lastmod>2022-12-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/kerstbomen/</loc>
+    <lastmod>2022-12-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/kerstbomen-verkoop/</loc>
+    <lastmod>2022-12-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/kerstbomenverkoop/</loc>
+    <lastmod>2022-12-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/naarden/</loc>
+    <lastmod>2022-12-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/bbq/</loc>
+    <lastmod>2022-11-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/gezamelijke-opkomst-wv/</loc>
+    <lastmod>2022-11-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/kampvuur/</loc>
+    <lastmod>2022-11-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/regio/</loc>
+    <lastmod>2022-11-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/wilde-vaart/</loc>
+    <lastmod>2022-11-20T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/feest/</loc>
+    <lastmod>2022-10-23T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/opkomst-najaar/</loc>
+    <lastmod>2022-10-23T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/sinterklaas-inroeien/</loc>
+    <lastmod>2022-10-23T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/zeilen/</loc>
+    <lastmod>2022-10-23T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/kamp/</loc>
+    <lastmod>2022-09-24T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/landelijke-zeilwedstrijden/</loc>
+    <lastmod>2022-09-24T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/scoutingnederland/</loc>
+    <lastmod>2022-09-24T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/zeilwedstrijden/</loc>
+    <lastmod>2022-09-24T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/zeilwedstrijden/</loc>
+    <lastmod>2022-09-24T20:00:01+00:00</lastmod>
+  </url><url>
     <loc>https://scouting-olav.nl/tags/1e-prijs/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/2e-prijs/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/categories/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/blog/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/tags/regionaale-zeilwedstrijden/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/blog/regionale-zeilwedstrijden-2022/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/</loc>
-    <lastmod>2022-09-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/categories/zeilwedstrijden/</loc>
     <lastmod>2022-09-12T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/categories/nieuws/</loc>
@@ -44,9 +173,6 @@
     <loc>https://scouting-olav.nl/categories/groepsactiviteit/</loc>
     <lastmod>2022-08-20T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/tags/installeren/</loc>
-    <lastmod>2022-08-20T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/tags/nawaka/</loc>
     <lastmod>2022-08-20T20:00:01+00:00</lastmod>
   </url><url>
@@ -59,16 +185,7 @@
     <loc>https://scouting-olav.nl/blog/dolfijnen-kamp/</loc>
     <lastmod>2022-08-17T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/tags/wilde-vaart/</loc>
-    <lastmod>2022-08-17T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/zeilen/</loc>
-    <lastmod>2022-08-17T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/blog/jemoeder-tour/</loc>
-    <lastmod>2022-08-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/categories/opkomst/</loc>
     <lastmod>2022-08-12T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/seal/</loc>
@@ -87,9 +204,6 @@
     <lastmod>2022-07-10T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/oekra%C3%AFne/</loc>
-    <lastmod>2022-07-10T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/zeeverkenners/</loc>
     <lastmod>2022-07-10T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/midzomernacht-zeilen/</loc>
@@ -112,12 +226,6 @@
   </url><url>
     <loc>https://scouting-olav.nl/blog/wilde-vaart-op-het-water/</loc>
     <lastmod>2022-06-12T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/jemoeder/</loc>
-    <lastmod>2022-06-11T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/loodsen/</loc>
-    <lastmod>2022-06-11T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/categories/nieuw-materiaal/</loc>
     <lastmod>2022-06-11T20:00:01+00:00</lastmod>
