@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sun, 19 Feb 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opkomst</title>
+      <link>https://scouting-olav.nl/categories/opkomst/</link>
+      <pubDate>Wed, 22 Feb 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/opkomst/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Pooltocht</title>
       <link>https://scouting-olav.nl/categories/pooltocht/</link>
@@ -23,15 +32,6 @@
       <pubDate>Tue, 14 Feb 2023 20:00:01 +0000</pubDate>
       
       <guid>https://scouting-olav.nl/categories/jemoeder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opkomst</title>
-      <link>https://scouting-olav.nl/categories/opkomst/</link>
-      <pubDate>Sun, 12 Feb 2023 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/opkomst/</guid>
       <description></description>
     </item>
     
