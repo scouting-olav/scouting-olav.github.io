@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Mon, 04 Sep 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doneren</title>
+      <link>https://scouting-olav.nl/tags/doneren/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/tags/doneren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hulp</title>
+      <link>https://scouting-olav.nl/tags/hulp/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/tags/hulp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hulpactie</title>
+      <link>https://scouting-olav.nl/tags/hulpactie/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/tags/hulpactie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hulpactie Wiggershuis</title>
+      <link>https://scouting-olav.nl/tags/hulpactie-wiggershuis/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/tags/hulpactie-wiggershuis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materialen</title>
+      <link>https://scouting-olav.nl/tags/materialen/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/tags/materialen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiggershuis</title>
+      <link>https://scouting-olav.nl/tags/wiggershuis/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/tags/wiggershuis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2023</title>
       <link>https://scouting-olav.nl/tags/2023/</link>
@@ -684,15 +738,6 @@
     </item>
     
     <item>
-      <title>Midzomernacht zeilen</title>
-      <link>https://scouting-olav.nl/tags/midzomernacht-zeilen/</link>
-      <pubDate>Sat, 02 Jul 2022 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/tags/midzomernacht-zeilen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Oud leden</title>
       <link>https://scouting-olav.nl/tags/oud-leden/</link>
       <pubDate>Sat, 02 Jul 2022 20:00:01 +0000</pubDate>
@@ -801,15 +846,6 @@
     </item>
     
     <item>
-      <title>Wiggershuis</title>
-      <link>https://scouting-olav.nl/tags/wiggershuis/</link>
-      <pubDate>Tue, 22 Jun 2021 19:43:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/tags/wiggershuis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gezocht</title>
       <link>https://scouting-olav.nl/tags/gezocht/</link>
       <pubDate>Wed, 24 Mar 2021 19:43:01 +0000</pubDate>
@@ -860,6 +896,15 @@
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://scouting-olav.nl/tags/afgebrand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brand</title>
+      <link>https://scouting-olav.nl/tags/brand/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/tags/brand/</guid>
       <description></description>
     </item>
     

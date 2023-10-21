@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Mon, 04 Sep 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hulpactie Wiggershuis</title>
+      <link>https://scouting-olav.nl/categories/hulpactie-wiggershuis/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/hulpactie-wiggershuis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiggershuis</title>
+      <link>https://scouting-olav.nl/categories/wiggershuis/</link>
+      <pubDate>Sun, 01 Oct 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/wiggershuis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Zomerkamp</title>
       <link>https://scouting-olav.nl/categories/zomerkamp/</link>
@@ -144,20 +162,11 @@
     </item>
     
     <item>
-      <title>Nieuws</title>
-      <link>https://scouting-olav.nl/categories/nieuws/</link>
+      <title>Lid worden</title>
+      <link>https://scouting-olav.nl/categories/lid-worden/</link>
       <pubDate>Tue, 30 Aug 2022 20:00:01 +0000</pubDate>
       
-      <guid>https://scouting-olav.nl/categories/nieuws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Groepsactiviteit</title>
-      <link>https://scouting-olav.nl/categories/groepsactiviteit/</link>
-      <pubDate>Sat, 20 Aug 2022 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/groepsactiviteit/</guid>
+      <guid>https://scouting-olav.nl/categories/lid-worden/</guid>
       <description></description>
     </item>
     
@@ -167,15 +176,6 @@
       <pubDate>Tue, 02 Aug 2022 20:00:01 +0000</pubDate>
       
       <guid>https://scouting-olav.nl/categories/seal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midzomernacht zeilen</title>
-      <link>https://scouting-olav.nl/categories/midzomernacht-zeilen/</link>
-      <pubDate>Sat, 02 Jul 2022 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/midzomernacht-zeilen/</guid>
       <description></description>
     </item>
     
@@ -212,15 +212,6 @@
       <pubDate>Tue, 22 Jun 2021 19:43:01 +0000</pubDate>
       
       <guid>https://scouting-olav.nl/categories/brand-wiggershuis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vlaggetjes Dag</title>
-      <link>https://scouting-olav.nl/categories/vlaggetjes-dag/</link>
-      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/vlaggetjes-dag/</guid>
       <description></description>
     </item>
     
