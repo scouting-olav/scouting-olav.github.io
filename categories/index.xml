@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Mon, 30 Oct 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Nov 2023 20:00:01 +0000</lastBuildDate><atom:link href="https://scouting-olav.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opkomst</title>
+      <link>https://scouting-olav.nl/categories/opkomst/</link>
+      <pubDate>Thu, 02 Nov 2023 20:00:01 +0000</pubDate>
+      
+      <guid>https://scouting-olav.nl/categories/opkomst/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Brand Wiggershuis</title>
       <link>https://scouting-olav.nl/categories/brand-wiggershuis/</link>
@@ -50,15 +59,6 @@
       <pubDate>Sun, 25 Jun 2023 20:00:01 +0000</pubDate>
       
       <guid>https://scouting-olav.nl/categories/zuwaka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opkomst</title>
-      <link>https://scouting-olav.nl/categories/opkomst/</link>
-      <pubDate>Sat, 03 Jun 2023 20:00:01 +0000</pubDate>
-      
-      <guid>https://scouting-olav.nl/categories/opkomst/</guid>
       <description></description>
     </item>
     

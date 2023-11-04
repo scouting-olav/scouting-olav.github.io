@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://scouting-olav.nl/categories/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/einde-vaarseizoen/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/2023/einde-vaarseizoen/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/blog/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/omvaren/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/onderhoud/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/categories/opkomst/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://scouting-olav.nl/tags/</loc>
+    <lastmod>2023-11-02T20:00:01+00:00</lastmod>
+  </url><url>
     <loc>https://scouting-olav.nl/blog/2023/aannemingsovereenkomst/</loc>
     <lastmod>2023-10-30T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/categories/brand-wiggershuis/</loc>
     <lastmod>2023-10-30T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/categories/</loc>
-    <lastmod>2023-10-30T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/tags/doneren/</loc>
-    <lastmod>2023-10-30T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/blog/</loc>
     <lastmod>2023-10-30T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/hulp/</loc>
@@ -30,12 +51,6 @@
     <lastmod>2023-10-30T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/materialen/</loc>
-    <lastmod>2023-10-30T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/</loc>
-    <lastmod>2023-10-30T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/</loc>
     <lastmod>2023-10-30T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/wiggershuis/</loc>
@@ -96,9 +111,6 @@
     <lastmod>2023-06-03T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/opkomst/</loc>
-    <lastmod>2023-06-03T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/categories/opkomst/</loc>
     <lastmod>2023-06-03T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/pinksteren/</loc>
@@ -171,9 +183,6 @@
     <lastmod>2023-05-01T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/muiden/</loc>
-    <lastmod>2023-04-08T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/omvaren/</loc>
     <lastmod>2023-04-08T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/categories/omvaren/</loc>
@@ -279,9 +288,6 @@
     <lastmod>2023-02-14T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/blog/2023/nieuwe-motor/</loc>
-    <lastmod>2023-02-14T20:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://scouting-olav.nl/tags/onderhoud/</loc>
     <lastmod>2023-02-14T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/dektekeningen/</loc>
