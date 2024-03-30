@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 06 Jan 2024 20:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 20:00:01 +0000</lastBuildDate>
     <atom:link href="https://scouting-olav.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Broodjes bakken</title>
+      <title>Hulpactie</title>
+      <link>https://scouting-olav.nl/tags/hulpactie/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:01 +0000</pubDate>
+      <guid>https://scouting-olav.nl/tags/hulpactie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hulpactie Wiggershuis</title>
+      <link>https://scouting-olav.nl/tags/hulpactie-wiggershuis/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:01 +0000</pubDate>
+      <guid>https://scouting-olav.nl/tags/hulpactie-wiggershuis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wiggershuis</title>
+      <link>https://scouting-olav.nl/tags/wiggershuis/</link>
+      <pubDate>Tue, 13 Feb 2024 20:00:01 +0000</pubDate>
+      <guid>https://scouting-olav.nl/tags/wiggershuis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Broodjes Bakken</title>
       <link>https://scouting-olav.nl/tags/broodjes-bakken/</link>
       <pubDate>Sat, 06 Jan 2024 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/broodjes-bakken/</guid>
@@ -59,13 +80,6 @@
       <description></description>
     </item>
     <item>
-      <title>Wiggershuis</title>
-      <link>https://scouting-olav.nl/tags/wiggershuis/</link>
-      <pubDate>Fri, 15 Dec 2023 20:00:01 +0000</pubDate>
-      <guid>https://scouting-olav.nl/tags/wiggershuis/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Paal</title>
       <link>https://scouting-olav.nl/tags/paal/</link>
       <pubDate>Tue, 14 Nov 2023 20:00:01 +0000</pubDate>
@@ -73,7 +87,7 @@
       <description></description>
     </item>
     <item>
-      <title>Einde vaarseizoen</title>
+      <title>Einde Vaarseizoen</title>
       <link>https://scouting-olav.nl/tags/einde-vaarseizoen/</link>
       <pubDate>Thu, 02 Nov 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/einde-vaarseizoen/</guid>
@@ -108,20 +122,6 @@
       <description></description>
     </item>
     <item>
-      <title>Hulpactie</title>
-      <link>https://scouting-olav.nl/tags/hulpactie/</link>
-      <pubDate>Mon, 30 Oct 2023 20:00:01 +0000</pubDate>
-      <guid>https://scouting-olav.nl/tags/hulpactie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hulpactie Wiggershuis</title>
-      <link>https://scouting-olav.nl/tags/hulpactie-wiggershuis/</link>
-      <pubDate>Mon, 30 Oct 2023 20:00:01 +0000</pubDate>
-      <guid>https://scouting-olav.nl/tags/hulpactie-wiggershuis/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Materialen</title>
       <link>https://scouting-olav.nl/tags/materialen/</link>
       <pubDate>Mon, 30 Oct 2023 20:00:01 +0000</pubDate>
@@ -129,7 +129,7 @@
       <description></description>
     </item>
     <item>
-      <title>Orka&#39;s</title>
+      <title>Orkas</title>
       <link>https://scouting-olav.nl/tags/orkas/</link>
       <pubDate>Mon, 04 Sep 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/orkas/</guid>
@@ -143,7 +143,7 @@
       <description></description>
     </item>
     <item>
-      <title>Wilde vaart</title>
+      <title>Wilde Vaart</title>
       <link>https://scouting-olav.nl/tags/wilde-vaart/</link>
       <pubDate>Tue, 29 Aug 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/wilde-vaart/</guid>
@@ -220,21 +220,21 @@
       <description></description>
     </item>
     <item>
-      <title>lintjes</title>
+      <title>Lintjes</title>
       <link>https://scouting-olav.nl/tags/lintjes/</link>
       <pubDate>Fri, 05 May 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/lintjes/</guid>
       <description></description>
     </item>
     <item>
-      <title>vrijwilligers</title>
+      <title>Vrijwilligers</title>
       <link>https://scouting-olav.nl/tags/vrijwilligers/</link>
       <pubDate>Fri, 05 May 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/vrijwilligers/</guid>
       <description></description>
     </item>
     <item>
-      <title>4 mei</title>
+      <title>4 Mei</title>
       <link>https://scouting-olav.nl/tags/4-mei/</link>
       <pubDate>Thu, 04 May 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/4-mei/</guid>
@@ -290,7 +290,7 @@
       <description></description>
     </item>
     <item>
-      <title>trekvaart</title>
+      <title>Trekvaart</title>
       <link>https://scouting-olav.nl/tags/trekvaart/</link>
       <pubDate>Sat, 08 Apr 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/trekvaart/</guid>
@@ -367,59 +367,66 @@
       <description></description>
     </item>
     <item>
-      <title>Nieuwe motor</title>
+      <title>Nieuwe Motor</title>
       <link>https://scouting-olav.nl/tags/nieuwe-motor/</link>
       <pubDate>Fri, 31 Mar 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/nieuwe-motor/</guid>
       <description></description>
     </item>
     <item>
-      <title>biesbosch</title>
+      <title>Biesbosch</title>
       <link>https://scouting-olav.nl/tags/biesbosch/</link>
       <pubDate>Thu, 30 Mar 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/biesbosch/</guid>
       <description></description>
     </item>
     <item>
-      <title>dordrecht</title>
+      <title>Dordrecht</title>
       <link>https://scouting-olav.nl/tags/dordrecht/</link>
       <pubDate>Thu, 30 Mar 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/dordrecht/</guid>
       <description></description>
     </item>
     <item>
-      <title>wind</title>
+      <title>Wind</title>
       <link>https://scouting-olav.nl/tags/wind/</link>
       <pubDate>Thu, 30 Mar 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/wind/</guid>
       <description></description>
     </item>
     <item>
-      <title>winter</title>
+      <title>Winter</title>
       <link>https://scouting-olav.nl/tags/winter/</link>
       <pubDate>Thu, 30 Mar 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/winter/</guid>
       <description></description>
     </item>
     <item>
-      <title>kadeweekend</title>
+      <title>Kadeweekend</title>
       <link>https://scouting-olav.nl/tags/kadeweekend/</link>
       <pubDate>Wed, 22 Feb 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/kadeweekend/</guid>
       <description></description>
     </item>
     <item>
-      <title>pannekoeken</title>
+      <title>Pannekoeken</title>
       <link>https://scouting-olav.nl/tags/pannekoeken/</link>
       <pubDate>Wed, 22 Feb 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/pannekoeken/</guid>
       <description></description>
     </item>
     <item>
-      <title>weerwolven</title>
+      <title>Weerwolven</title>
       <link>https://scouting-olav.nl/tags/weerwolven/</link>
       <pubDate>Wed, 22 Feb 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/weerwolven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orka&#39;s</title>
+      <link>https://scouting-olav.nl/tags/orkas/</link>
+      <pubDate>Sun, 19 Feb 2023 20:00:01 +0000</pubDate>
+      <guid>https://scouting-olav.nl/tags/orkas/</guid>
       <description></description>
     </item>
     <item>
@@ -437,7 +444,7 @@
       <description></description>
     </item>
     <item>
-      <title>dektekeningen</title>
+      <title>Dektekeningen</title>
       <link>https://scouting-olav.nl/tags/dektekeningen/</link>
       <pubDate>Sun, 12 Feb 2023 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/dektekeningen/</guid>
@@ -514,49 +521,49 @@
       <description></description>
     </item>
     <item>
-      <title>feest</title>
+      <title>Feest</title>
       <link>https://scouting-olav.nl/tags/feest/</link>
       <pubDate>Sun, 23 Oct 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/feest/</guid>
       <description></description>
     </item>
     <item>
-      <title>kamp</title>
+      <title>Kamp</title>
       <link>https://scouting-olav.nl/tags/kamp/</link>
       <pubDate>Sat, 24 Sep 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/kamp/</guid>
       <description></description>
     </item>
     <item>
-      <title>scoutingnederland</title>
+      <title>Scoutingnederland</title>
       <link>https://scouting-olav.nl/tags/scoutingnederland/</link>
       <pubDate>Sat, 24 Sep 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/scoutingnederland/</guid>
       <description></description>
     </item>
     <item>
-      <title>zeilwedstrijden</title>
+      <title>Zeilwedstrijden</title>
       <link>https://scouting-olav.nl/tags/zeilwedstrijden/</link>
       <pubDate>Sat, 24 Sep 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/zeilwedstrijden/</guid>
       <description></description>
     </item>
     <item>
-      <title>1e prijs</title>
+      <title>1e Prijs</title>
       <link>https://scouting-olav.nl/tags/1e-prijs/</link>
       <pubDate>Mon, 12 Sep 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/1e-prijs/</guid>
       <description></description>
     </item>
     <item>
-      <title>2e prijs</title>
+      <title>2e Prijs</title>
       <link>https://scouting-olav.nl/tags/2e-prijs/</link>
       <pubDate>Mon, 12 Sep 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/2e-prijs/</guid>
       <description></description>
     </item>
     <item>
-      <title>Regionaale zeilwedstrijden</title>
+      <title>Regionaale Zeilwedstrijden</title>
       <link>https://scouting-olav.nl/tags/regionaale-zeilwedstrijden/</link>
       <pubDate>Mon, 12 Sep 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/regionaale-zeilwedstrijden/</guid>
@@ -584,7 +591,7 @@
       <description></description>
     </item>
     <item>
-      <title>zeilwedstrijd</title>
+      <title>Zeilwedstrijd</title>
       <link>https://scouting-olav.nl/tags/zeilwedstrijd/</link>
       <pubDate>Sat, 20 Aug 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/zeilwedstrijd/</guid>
@@ -619,7 +626,7 @@
       <description></description>
     </item>
     <item>
-      <title>Oud leden</title>
+      <title>Oud Leden</title>
       <link>https://scouting-olav.nl/tags/oud-leden/</link>
       <pubDate>Sat, 02 Jul 2022 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/oud-leden/</guid>
@@ -647,42 +654,42 @@
       <description></description>
     </item>
     <item>
-      <title>Lions club Gooise Meren</title>
+      <title>Lions Club Gooise Meren</title>
       <link>https://scouting-olav.nl/tags/lions-club-gooise-meren/</link>
       <pubDate>Fri, 05 Nov 2021 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/lions-club-gooise-meren/</guid>
       <description></description>
     </item>
     <item>
-      <title>nieuwbouw</title>
+      <title>Nieuwbouw</title>
       <link>https://scouting-olav.nl/tags/nieuwbouw/</link>
       <pubDate>Fri, 05 Nov 2021 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/nieuwbouw/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rabo clubsupport actie</title>
+      <title>Rabo Clubsupport Actie</title>
       <link>https://scouting-olav.nl/tags/rabo-clubsupport-actie/</link>
       <pubDate>Thu, 07 Oct 2021 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/rabo-clubsupport-actie/</guid>
       <description></description>
     </item>
     <item>
-      <title>hamsteren</title>
+      <title>Hamsteren</title>
       <link>https://scouting-olav.nl/tags/hamsteren/</link>
       <pubDate>Sun, 05 Sep 2021 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/hamsteren/</guid>
       <description></description>
     </item>
     <item>
-      <title>sponsorpunten</title>
+      <title>Sponsorpunten</title>
       <link>https://scouting-olav.nl/tags/sponsorpunten/</link>
       <pubDate>Sun, 05 Sep 2021 20:00:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/sponsorpunten/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nieuwe schepen</title>
+      <title>Nieuwe Schepen</title>
       <link>https://scouting-olav.nl/tags/nieuwe-schepen/</link>
       <pubDate>Tue, 22 Jun 2021 19:43:01 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/nieuwe-schepen/</guid>
@@ -717,7 +724,7 @@
       <description></description>
     </item>
     <item>
-      <title>vjdw</title>
+      <title>Vjdw</title>
       <link>https://scouting-olav.nl/tags/vjdw/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://scouting-olav.nl/tags/vjdw/</guid>
