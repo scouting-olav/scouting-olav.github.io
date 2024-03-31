@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Groepsagenda 2023 on Scouting Olav | Naarden</title>
+    <title>Groepsagenda 2024 on Scouting Olav | Naarden</title>
     <link>https://scouting-olav.nl/agenda/</link>
-    <description>Recent content in Groepsagenda 2023 on Scouting Olav | Naarden</description>
+    <description>Recent content in Groepsagenda 2024 on Scouting Olav | Naarden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <copyright>&amp;copy; 2021 Scouting Olav Naarden - Ontworpen door: [DevJev](https://www.devjev.nl) d.m.v. thema [Themefisher](https://themefisher.com)</copyright>
     <atom:link href="https://scouting-olav.nl/agenda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beverweekend</title>
-      <link>https://scouting-olav.nl/agenda/07-15-beverweekend/</link>
+      <link>https://scouting-olav.nl/agenda/05-25-beverweekend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/07-15-beverweekend/</guid>
+      <guid>https://scouting-olav.nl/agenda/05-25-beverweekend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dekfeest</title>
+      <link>https://scouting-olav.nl/agenda/02-17-dekfeest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scouting-olav.nl/agenda/02-17-dekfeest/</guid>
       <description></description>
     </item>
     <item>
@@ -24,30 +31,30 @@
     </item>
     <item>
       <title>Groepsraad</title>
-      <link>https://scouting-olav.nl/agenda/05-13-groepsraad/</link>
+      <link>https://scouting-olav.nl/agenda/03-16-groepsraad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/05-13-groepsraad/</guid>
+      <guid>https://scouting-olav.nl/agenda/03-16-groepsraad/</guid>
       <description>De groepsraad is een vergadering op groepsniveau waarin de dagelijkse gang van zaken van een groep wordt besproken. Voordat alle groepen in Nederland een vereniging werden, was de groepsraad het hoogste orgaan van de scoutinggroep.</description>
     </item>
     <item>
-      <title>Kaderweekend</title>
-      <link>https://scouting-olav.nl/agenda/02-18-kaderweekend-zv/</link>
+      <title>Groepsraad</title>
+      <link>https://scouting-olav.nl/agenda/10-19-groepsraad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/02-18-kaderweekend-zv/</guid>
-      <description></description>
+      <guid>https://scouting-olav.nl/agenda/10-19-groepsraad/</guid>
+      <description>De groepsraad is een vergadering op groepsniveau waarin de dagelijkse gang van zaken van een groep wordt besproken. Voordat alle groepen in Nederland een vereniging werden, was de groepsraad het hoogste orgaan van de scoutinggroep.</description>
     </item>
     <item>
       <title>Kerstbomen opbouw</title>
-      <link>https://scouting-olav.nl/agenda/11-18-kerstbomen-opbouw/</link>
+      <link>https://scouting-olav.nl/agenda/11-16-kerstbomen-opbouw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/11-18-kerstbomen-opbouw/</guid>
+      <guid>https://scouting-olav.nl/agenda/11-16-kerstbomen-opbouw/</guid>
       <description></description>
     </item>
     <item>
       <title>Kerstbomen uitladen</title>
-      <link>https://scouting-olav.nl/agenda/11-25-kerstbomen-uitladen/</link>
+      <link>https://scouting-olav.nl/agenda/11-23-kerstbomen-uitladen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/11-25-kerstbomen-uitladen/</guid>
+      <guid>https://scouting-olav.nl/agenda/11-23-kerstbomen-uitladen/</guid>
       <description></description>
     </item>
     <item>
@@ -55,13 +62,13 @@
       <link>https://scouting-olav.nl/agenda/04-27-koningsdag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://scouting-olav.nl/agenda/04-27-koningsdag/</guid>
-      <description></description>
+      <description>Koningsdag is de nationale feestdag waarop de verjaardag van de Koning wordt gevierd. Als 27 april op een zondag valt, wordt Koningsdag de dag ervoor gevierd.</description>
     </item>
     <item>
-      <title>Leidingavond</title>
-      <link>https://scouting-olav.nl/agenda/04-15-leidingavond/</link>
+      <title>Midzomernachtzeilen</title>
+      <link>https://scouting-olav.nl/agenda/06-22-midzomernachtzeilen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/04-15-leidingavond/</guid>
+      <guid>https://scouting-olav.nl/agenda/06-22-midzomernachtzeilen/</guid>
       <description></description>
     </item>
     <item>
@@ -73,72 +80,44 @@
     </item>
     <item>
       <title>NL - Doet</title>
-      <link>https://scouting-olav.nl/agenda/03-11-nl-doet/</link>
+      <link>https://scouting-olav.nl/agenda/03-16-nl-doet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/03-11-nl-doet/</guid>
+      <guid>https://scouting-olav.nl/agenda/03-16-nl-doet/</guid>
       <description></description>
     </item>
     <item>
-      <title>Omvaren</title>
-      <link>https://scouting-olav.nl/agenda/04-08-omvaren-orkas/</link>
+      <title>Overliegen</title>
+      <link>https://scouting-olav.nl/agenda/06-01-overvliegen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/04-08-omvaren-orkas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Omvaren</title>
-      <link>https://scouting-olav.nl/agenda/04-08-omvaren-zv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/04-08-omvaren-zv/</guid>
+      <guid>https://scouting-olav.nl/agenda/06-01-overvliegen/</guid>
       <description></description>
     </item>
     <item>
       <title>Pooltocht</title>
-      <link>https://scouting-olav.nl/agenda/02-18-pooltocht-orkas/</link>
+      <link>https://scouting-olav.nl/agenda/03-02-pooltocht-zv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/02-18-pooltocht-orkas/</guid>
+      <guid>https://scouting-olav.nl/agenda/03-02-pooltocht-zv/</guid>
       <description></description>
     </item>
     <item>
       <title>Pooltocht</title>
-      <link>https://scouting-olav.nl/agenda/02-18-pooltocht-wv/</link>
+      <link>https://scouting-olav.nl/agenda/03-09-pooltocht-dolfijnen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/02-18-pooltocht-wv/</guid>
+      <guid>https://scouting-olav.nl/agenda/03-09-pooltocht-dolfijnen/</guid>
       <description></description>
     </item>
     <item>
       <title>Pooltocht</title>
-      <link>https://scouting-olav.nl/agenda/03-18-pooltocht-dolfijnen/</link>
+      <link>https://scouting-olav.nl/agenda/03-23-pooltocht-bevers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/03-18-pooltocht-dolfijnen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pooltocht</title>
-      <link>https://scouting-olav.nl/agenda/03-25-pooltocht-bevers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/03-25-pooltocht-bevers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pooltocht</title>
-      <link>https://scouting-olav.nl/agenda/03-25-pooltocht-zv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/03-25-pooltocht-zv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SB &#43; VB thema meeting</title>
-      <link>https://scouting-olav.nl/agenda/02-06-bestuur-thema-meeting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/02-06-bestuur-thema-meeting/</guid>
+      <guid>https://scouting-olav.nl/agenda/03-23-pooltocht-bevers/</guid>
       <description></description>
     </item>
     <item>
       <title>SEAL zomerweken</title>
-      <link>https://scouting-olav.nl/agenda/07-22-seal/</link>
+      <link>https://scouting-olav.nl/agenda/07-20-seal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/07-22-seal/</guid>
+      <guid>https://scouting-olav.nl/agenda/07-20-seal/</guid>
       <description></description>
     </item>
     <item>
@@ -150,114 +129,114 @@
     </item>
     <item>
       <title>Start verhuur Loods</title>
-      <link>https://scouting-olav.nl/agenda/06-08-start-verhuur-loods/</link>
+      <link>https://scouting-olav.nl/agenda/05-01-start-verhuur-loods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/06-08-start-verhuur-loods/</guid>
+      <guid>https://scouting-olav.nl/agenda/05-01-start-verhuur-loods/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/01-28-teamleiders-vergadering/</link>
+      <link>https://scouting-olav.nl/agenda/01-20-teamleiders-vergadering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/01-28-teamleiders-vergadering/</guid>
+      <guid>https://scouting-olav.nl/agenda/01-20-teamleiders-vergadering/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/03-11-teamleiders-vergadering/</link>
+      <link>https://scouting-olav.nl/agenda/02-24-teamleiders-vergadering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/03-11-teamleiders-vergadering/</guid>
+      <guid>https://scouting-olav.nl/agenda/02-24-teamleiders-vergadering/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/04-29-teamleiders-vergadering/</link>
+      <link>https://scouting-olav.nl/agenda/04-06-teamleiders-vergadering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/04-29-teamleiders-vergadering/</guid>
+      <guid>https://scouting-olav.nl/agenda/04-06-teamleiders-vergadering/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/06-10-teamleiders-vergadering/</link>
+      <link>https://scouting-olav.nl/agenda/07-06-teamleiders-vergadering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/06-10-teamleiders-vergadering/</guid>
+      <guid>https://scouting-olav.nl/agenda/07-06-teamleiders-vergadering/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/07-08-teamleiders-vergadering/</link>
+      <link>https://scouting-olav.nl/agenda/09-07-teamleiders-vergadering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/07-08-teamleiders-vergadering/</guid>
+      <guid>https://scouting-olav.nl/agenda/09-07-teamleiders-vergadering/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/09-09-teamleiders-vergadering/</link>
+      <link>https://scouting-olav.nl/agenda/10-05-teamleiders-vergadering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/09-09-teamleiders-vergadering/</guid>
+      <guid>https://scouting-olav.nl/agenda/10-05-teamleiders-vergadering/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/10-21-teamleiders-vergadering/</link>
+      <link>https://scouting-olav.nl/agenda/12-07-teamleiders-vergadering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/10-21-teamleiders-vergadering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teamleiders vergadering</title>
-      <link>https://scouting-olav.nl/agenda/12-02-teamleiders-vergadering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/12-02-teamleiders-vergadering/</guid>
+      <guid>https://scouting-olav.nl/agenda/12-07-teamleiders-vergadering/</guid>
       <description></description>
     </item>
     <item>
       <title>Verkoop Kerstbomen</title>
-      <link>https://scouting-olav.nl/agenda/12-02-kerstbomen-verkoop/</link>
+      <link>https://scouting-olav.nl/agenda/11-30-kerstbomen-verkoop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/12-02-kerstbomen-verkoop/</guid>
+      <guid>https://scouting-olav.nl/agenda/11-30-kerstbomen-verkoop/</guid>
       <description></description>
     </item>
     <item>
       <title>Vlaggetjesdag</title>
-      <link>https://scouting-olav.nl/agenda/05-06-vlaggetjesdag/</link>
+      <link>https://scouting-olav.nl/agenda/04-13-vlaggetjesdag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/05-06-vlaggetjesdag/</guid>
+      <guid>https://scouting-olav.nl/agenda/04-13-vlaggetjesdag/</guid>
       <description></description>
     </item>
     <item>
       <title>Witte tornado</title>
-      <link>https://scouting-olav.nl/agenda/04-22-witte-tornado/</link>
+      <link>https://scouting-olav.nl/agenda/04-20-witte-tornado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/04-22-witte-tornado/</guid>
+      <guid>https://scouting-olav.nl/agenda/04-20-witte-tornado/</guid>
       <description></description>
     </item>
     <item>
       <title>Zomerkamp</title>
-      <link>https://scouting-olav.nl/agenda/08-19-zomerkamp-zv/</link>
+      <link>https://scouting-olav.nl/agenda/08-06-zomerkamp-loodsen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/08-19-zomerkamp-zv/</guid>
+      <guid>https://scouting-olav.nl/agenda/08-06-zomerkamp-loodsen/</guid>
       <description></description>
     </item>
     <item>
       <title>Zomerkamp</title>
-      <link>https://scouting-olav.nl/agenda/08-27-zomerkamp-dolfijnen/</link>
+      <link>https://scouting-olav.nl/agenda/08-24-zomerkamp-wv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/08-27-zomerkamp-dolfijnen/</guid>
+      <guid>https://scouting-olav.nl/agenda/08-24-zomerkamp-wv/</guid>
       <description></description>
     </item>
     <item>
       <title>Zomerkamp</title>
-      <link>https://scouting-olav.nl/agenda/08-27-zomerkamp-orkas/</link>
+      <link>https://scouting-olav.nl/agenda/08-24-zomerkamp-zv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/08-27-zomerkamp-orkas/</guid>
+      <guid>https://scouting-olav.nl/agenda/08-24-zomerkamp-zv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zomerkamp</title>
+      <link>https://scouting-olav.nl/agenda/08-25-zomerkamp-dolfijnen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scouting-olav.nl/agenda/08-25-zomerkamp-dolfijnen/</guid>
       <description></description>
     </item>
     <item>
       <title>ZuWaKa</title>
-      <link>https://scouting-olav.nl/agenda/05-26-zuwaka/</link>
+      <link>https://scouting-olav.nl/agenda/05-17-zuwaka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scouting-olav.nl/agenda/05-26-zuwaka/</guid>
+      <guid>https://scouting-olav.nl/agenda/05-17-zuwaka/</guid>
       <description>Het ZuidWal Water Kamp of kortweg ZuWaKa is een jaarlijks kamp georganiseerd door activiteiten commissie van Admiraliteit 11 (Zuidwal) en vind plaats tijdens het Pinksterweekend. Het kamp is voor waterscouts in de leeftijd 11 t/m 23 (Zeeverkenners, Wilde Vaart en Loodsen) uit Admiraliteit 11 (Zuidwal).</description>
     </item>
   </channel>

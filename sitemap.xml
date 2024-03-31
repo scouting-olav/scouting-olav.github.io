@@ -314,9 +314,6 @@
     <loc>https://scouting-olav.nl/tags/weerwolven/</loc>
     <lastmod>2023-02-22T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/tags/orkas/</loc>
-    <lastmod>2023-02-19T20:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://scouting-olav.nl/blog/2023/pooltocht-orkas/</loc>
     <lastmod>2023-02-19T20:00:01+00:00</lastmod>
   </url><url>
@@ -518,10 +515,10 @@
     <loc>https://scouting-olav.nl/categories/sponsoractie/</loc>
     <lastmod>2021-11-05T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/blog/rabobank-actie/</loc>
+    <loc>https://scouting-olav.nl/tags/rabo-clubsupport-actie/</loc>
     <lastmod>2021-10-07T20:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://scouting-olav.nl/tags/rabo-clubsupport-actie/</loc>
+    <loc>https://scouting-olav.nl/blog/rabobank-actie/</loc>
     <lastmod>2021-10-07T20:00:01+00:00</lastmod>
   </url><url>
     <loc>https://scouting-olav.nl/tags/hamsteren/</loc>
@@ -594,11 +591,13 @@
   </url><url>
     <loc>https://scouting-olav.nl/speltakken/bevers/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/07-15-beverweekend/</loc>
+    <loc>https://scouting-olav.nl/agenda/05-25-beverweekend/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/contact/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/johannes-stichting/</loc>
+  </url><url>
+    <loc>https://scouting-olav.nl/agenda/02-17-dekfeest/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/agenda/05-04-dodenherdenking/</loc>
   </url><url>
@@ -616,7 +615,9 @@
   </url><url>
     <loc>https://scouting-olav.nl/agenda/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/05-13-groepsraad/</loc>
+    <loc>https://scouting-olav.nl/agenda/03-16-groepsraad/</loc>
+  </url><url>
+    <loc>https://scouting-olav.nl/agenda/10-19-groepsraad/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/kerstbomen_verkoop/</loc>
   </url><url>
@@ -624,17 +625,13 @@
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/ijwerf/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/02-18-kaderweekend-zv/</loc>
+    <loc>https://scouting-olav.nl/agenda/11-16-kerstbomen-opbouw/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/11-18-kerstbomen-opbouw/</loc>
-  </url><url>
-    <loc>https://scouting-olav.nl/agenda/11-25-kerstbomen-uitladen/</loc>
+    <loc>https://scouting-olav.nl/agenda/11-23-kerstbomen-uitladen/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/kiwanis/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/agenda/04-27-koningsdag/</loc>
-  </url><url>
-    <loc>https://scouting-olav.nl/agenda/04-15-leidingavond/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/lid_worden/</loc>
   </url><url>
@@ -644,25 +641,21 @@
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/marion-polak-stichting/</loc>
   </url><url>
+    <loc>https://scouting-olav.nl/agenda/06-22-midzomernachtzeilen/</loc>
+  </url><url>
     <loc>https://scouting-olav.nl/agenda/01-14-nieuwjaarsborrel/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/03-11-nl-doet/</loc>
+    <loc>https://scouting-olav.nl/agenda/03-16-nl-doet/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/04-08-omvaren-orkas/</loc>
-  </url><url>
-    <loc>https://scouting-olav.nl/agenda/04-08-omvaren-zv/</loc>
+    <loc>https://scouting-olav.nl/agenda/06-01-overvliegen/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/pipelife/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/02-18-pooltocht-orkas/</loc>
+    <loc>https://scouting-olav.nl/agenda/03-02-pooltocht-zv/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/02-18-pooltocht-wv/</loc>
+    <loc>https://scouting-olav.nl/agenda/03-09-pooltocht-dolfijnen/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/03-18-pooltocht-dolfijnen/</loc>
-  </url><url>
-    <loc>https://scouting-olav.nl/agenda/03-25-pooltocht-bevers/</loc>
-  </url><url>
-    <loc>https://scouting-olav.nl/agenda/03-25-pooltocht-zv/</loc>
+    <loc>https://scouting-olav.nl/agenda/03-23-pooltocht-bevers/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/groep/privacy-beleid/</loc>
   </url><url>
@@ -670,9 +663,7 @@
   </url><url>
     <loc>https://scouting-olav.nl/groep/reddingsvesten/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/02-06-bestuur-thema-meeting/</loc>
-  </url><url>
-    <loc>https://scouting-olav.nl/agenda/07-22-seal/</loc>
+    <loc>https://scouting-olav.nl/agenda/07-20-seal/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/signify/</loc>
   </url><url>
@@ -682,50 +673,50 @@
   </url><url>
     <loc>https://scouting-olav.nl/speltakken/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/06-08-start-verhuur-loods/</loc>
+    <loc>https://scouting-olav.nl/agenda/05-01-start-verhuur-loods/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/stichting-hubertus/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/stichting-sint-nicolaas-gasthuis/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/01-28-teamleiders-vergadering/</loc>
+    <loc>https://scouting-olav.nl/agenda/01-20-teamleiders-vergadering/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/03-11-teamleiders-vergadering/</loc>
+    <loc>https://scouting-olav.nl/agenda/02-24-teamleiders-vergadering/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/04-29-teamleiders-vergadering/</loc>
+    <loc>https://scouting-olav.nl/agenda/04-06-teamleiders-vergadering/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/06-10-teamleiders-vergadering/</loc>
+    <loc>https://scouting-olav.nl/agenda/07-06-teamleiders-vergadering/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/07-08-teamleiders-vergadering/</loc>
+    <loc>https://scouting-olav.nl/agenda/09-07-teamleiders-vergadering/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/09-09-teamleiders-vergadering/</loc>
+    <loc>https://scouting-olav.nl/agenda/10-05-teamleiders-vergadering/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/10-21-teamleiders-vergadering/</loc>
-  </url><url>
-    <loc>https://scouting-olav.nl/agenda/12-02-teamleiders-vergadering/</loc>
+    <loc>https://scouting-olav.nl/agenda/12-07-teamleiders-vergadering/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/technische-unie/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/donateurs/tkf/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/12-02-kerstbomen-verkoop/</loc>
+    <loc>https://scouting-olav.nl/agenda/11-30-kerstbomen-verkoop/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/groep/vertrouwenscontactpersoon/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/05-06-vlaggetjesdag/</loc>
+    <loc>https://scouting-olav.nl/agenda/04-13-vlaggetjesdag/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/speltakken/wilde-vaart/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/04-22-witte-tornado/</loc>
+    <loc>https://scouting-olav.nl/agenda/04-20-witte-tornado/</loc>
   </url><url>
     <loc>https://scouting-olav.nl/speltakken/zeeverkenners/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/08-19-zomerkamp-zv/</loc>
+    <loc>https://scouting-olav.nl/agenda/08-06-zomerkamp-loodsen/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/08-27-zomerkamp-dolfijnen/</loc>
+    <loc>https://scouting-olav.nl/agenda/08-24-zomerkamp-wv/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/08-27-zomerkamp-orkas/</loc>
+    <loc>https://scouting-olav.nl/agenda/08-24-zomerkamp-zv/</loc>
   </url><url>
-    <loc>https://scouting-olav.nl/agenda/05-26-zuwaka/</loc>
+    <loc>https://scouting-olav.nl/agenda/08-25-zomerkamp-dolfijnen/</loc>
+  </url><url>
+    <loc>https://scouting-olav.nl/agenda/05-17-zuwaka/</loc>
   </url>
 </urlset>
